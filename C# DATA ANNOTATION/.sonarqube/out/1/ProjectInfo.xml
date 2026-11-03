@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>RAIZA.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>72c63d5d-4238-44b6-bd15-7411ce4a6da7</ProjectGuid>
+  <FullPath>C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\RAIZA.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\.sonarqube\out\1\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\.sonarqube\out\1</Property>
+    <Property Name="sonar.cs.scanner.telemetry">C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\.sonarqube\out\1\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

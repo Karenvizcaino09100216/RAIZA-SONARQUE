@@ -1,0 +1,29 @@
+Ñ
+yC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\obj\Debug\net8.0\RAIZA.Tests.AssemblyInfo.csutf-8ò
+åC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Ü
+{C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\obj\Debug\net8.0\RAIZA.Tests.GlobalUsings.g.csutf-8z
+oC:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8v
+mC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\UtilidadesPagoTests.csutf-8y
+pC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\UsuarioControllerTests.csutf-8z
+qC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\TematicaControllerTests.csutf-8w
+nC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\TareaControllerTests.csutf-8y
+pC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\SeguridadArchivosTests.csutf-8Å
+xC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ProgresoLeccionControllerTests.csutf-8z
+qC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ProgresoControllerTests.csutf-8{
+rC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\PedidoKitControllerTests.csutf-8~
+uC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\NotificacionControllerTests.csutf-8x
+oC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ModuloControllerTests.csutf-8y
+pC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\LeccionControllerTests.csutf-8|
+sC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\InstructorControllerTests.csutf-8|
+sC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\EstudianteControllerTests.csutf-8~
+uC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\EntregaTareaControllerTests.csutf-8x
+oC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\CompraControllerTests.csutf-8z
+qC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClassKitControllerTests.csutf-8~
+uC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClasesEnVivoControllerTests.csutf-8É
+zC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClaseParticipanteControllerTests.csutf-8}
+tC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\CertificadoControllerTests.csutf-8t
+kC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AutorizacionTests.csutf-8v
+mC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AuthControllerTests.csutf-8
+vC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AdministradorControllerTests.csutf-8x
+oC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Integracion\ApiIntegrationTests.csutf-8o
+fC:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Helpers\TestUserHelper.csutf-8

@@ -1,0 +1,132 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "12.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1793736741000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "Raiza"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2,72C63D5D-4238-44B6-BD15-7411CE4A6DA7"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.projectKey",
+      "value": "Raiza:8C3F89AD-AE20-4A3A-93B6-AAAE347224A2"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.projectName",
+      "value": "RAIZA"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.projectBaseDir",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.working.directory",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.sources",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Contexto\\RaizaDatabase.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Administrador_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\AutoController.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Autorizacion.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Certificado_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\ClaseParticipante_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\ClasesEnVivo_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\ClassKit_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Compra_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\EntregaTarea_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Estudiante_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Instructor_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Leccion_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Modulo_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Notificacion_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\PedidoKit_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\ProgresoLeccion_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Progreso_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Tarea_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Tematica_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\Usuario_C.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\UtilidadesError.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Controllers\\UtilidadesPago.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Administrador.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Certificado.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\ClaseParticipante.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\ClasesEnVivo.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Class Kit.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Codigoverificacion.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Compra.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Correoservice.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\EntregaTarea.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Estudiante.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Instructor.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Leccion.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Login.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Modulo.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Notificacion.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\PedidoKit.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Progreso.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\ProgresoLeccion.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Tarea.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Tematica.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Models\\Usuario.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Program.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Administrador_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Certificado_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\ClaseParticipante_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\ClasesEnVivo_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Class Kit_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Compra_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\EntregaTarea_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Estudiante_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Instructor_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Administrador_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Certificado_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\ClaseParticipante_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\ClasesEnVivo_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\ClassKit_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Compra_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\EntregaTarea_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Estudiante_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Instructor_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Leccion_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Modulo_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Notificacion_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\PedidoKit_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\ProgresoLeccion_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Progreso_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Tarea_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Tematica_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Interfaces\\Usuario_I.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Leccion_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Modulo_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Notificacion_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\PedidoKit_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\ProgresoLeccion_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Progreso_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Tarea_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Tematica_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Repository\\Usuario_R.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\RAIZA.GlobalUsings.g.cs,\"C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\RAIZA.AssemblyInfo.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\RAIZA.MvcApplicationPartsAssemblyInfo.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\nuget.config,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\appsettings.Development.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\appsettings.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.gitignore,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\.signature.p7s,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\build\\net45\\MSTest.TestAdapter.props,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\build\\net45\\MSTest.TestAdapter.targets,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\build\\net46\\MSTest.TestAdapter.props,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\build\\net46\\MSTest.TestAdapter.targets,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\Icon.png,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\packages\\MSTest.TestAdapter.2.2.10\\MSTest.TestAdapter.2.2.10.nupkg,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.http,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\SEGURIDAD.md,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\Properties\\launchSettings.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\project.assets.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\RAIZA.csproj.nuget.dgspec.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.vs\\RAIZA\\v18\\DocumentLayout.backup.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.vs\\RAIZA\\v18\\DocumentLayout.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\nuget.config,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\RAIZA.deps.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\RAIZA.runtimeconfig.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\bin\\Debug\\net8.0\\RAIZA.staticwebassets.endpoints.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\obj\\Debug\\net8.0\\staticwebassets.build.json"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "8C3F89AD-AE20-4A3A-93B6-AAAE347224A2.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.projectKey",
+      "value": "Raiza:72C63D5D-4238-44B6-BD15-7411CE4A6DA7"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.projectName",
+      "value": "RAIZA.Tests"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.projectBaseDir",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.working.directory",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.tests",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\obj\\project.assets.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\obj\\RAIZA.Tests.csproj.nuget.dgspec.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\MvcTestingAppManifest.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\nuget.config,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\RAIZA.deps.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\RAIZA.runtimeconfig.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\RAIZA.staticwebassets.endpoints.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\RAIZA.Tests.deps.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\bin\\Debug\\net8.0\\RAIZA.Tests.runtimeconfig.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\obj\\Debug\\net8.0\\MvcTestingAppManifest.json,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Helpers\\TestUserHelper.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Integracion\\ApiIntegrationTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\AdministradorControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\AuthControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\AutorizacionTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\CertificadoControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ClaseParticipanteControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ClasesEnVivoControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ClassKitControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\CompraControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\EntregaTareaControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\EstudianteControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\InstructorControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\LeccionControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ModuloControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\NotificacionControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\PedidoKitControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ProgresoControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\ProgresoLeccionControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\SeguridadArchivosTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\TareaControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\TematicaControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\UsuarioControllerTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\Unitarias\\UtilidadesPagoTests.cs,C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\RAIZA.Tests\\TestResults\\7da02038-354b-4975-b49e-f6d66000d04b\\coverage.cobertura.xml"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "72C63D5D-4238-44B6-BD15-7411CE4A6DA7.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\HP\\Downloads\\RAIZA-ACTUALIZADO-main\\C# DATA ANNOTATIONS\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    }
+  ]
+}

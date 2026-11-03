@@ -1,0 +1,31 @@
+﻿C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Helpers\TestUserHelper.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Integracion\ApiIntegrationTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AdministradorControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AuthControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\AutorizacionTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\CertificadoControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClaseParticipanteControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClasesEnVivoControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ClassKitControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\CompraControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\EntregaTareaControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\EstudianteControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\InstructorControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\LeccionControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ModuloControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\NotificacionControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\PedidoKitControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ProgresoControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\ProgresoLeccionControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\SeguridadArchivosTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\TareaControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\TematicaControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\UsuarioControllerTests.cs
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\Unitarias\UtilidadesPagoTests.cs
+C:\Users\HP\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\HP\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\HP\.nuget\packages\xunit.runner.visualstudio\2.5.7\build\net6.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\HP\.nuget\packages\xunit.runner.visualstudio\2.5.7\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\HP\.nuget\packages\xunit.runner.visualstudio\2.5.7\build\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\HP\Downloads\RAIZA-ACTUALIZADO-main\C# DATA ANNOTATIONS\RAIZA.Tests\TestResults\7da02038-354b-4975-b49e-f6d66000d04b\coverage.cobertura.xml
