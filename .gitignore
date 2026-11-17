@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+TestResults/
+FRONTEND RAIZA/node_modules/
+FRONTEND RAIZA/coverage/
+coveragereport/
+.DS_Store

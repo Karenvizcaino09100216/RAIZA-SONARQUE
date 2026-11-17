@@ -435,3 +435,5 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 });
+/* istanbul ignore next */
+if (typeof module !== 'undefined') { module.exports = { mostrarAlerta, ocultarAlerta, leerJson, mensajePorEstado, textoDeError, bloquearBoton, reiniciarCaptcha, togglePassword, mostrarPanel, cambiarVista, volverALogin, enviarLogin, enviarRegistro, mostrarPasoCodigo, enviarVerificacion, reenviarCodigo, mostrarVistaRecuperar, enviarSolicitudRecuperacion, enviarRestablecer, abrirPoliticaDatos, cerrarPoliticaDatos, aceptarPoliticaDatos }; }
